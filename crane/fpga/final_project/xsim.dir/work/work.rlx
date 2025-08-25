@@ -1,0 +1,11 @@
+0.7
+2020.2
+Oct 14 2022
+05:07:14
+/home/drh650/git-clones/3700/final_project/src/debouncer.v,1742175787,verilog,,/home/drh650/git-clones/3700/final_project/src/tcounter.v,,debouncer,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/tcounter.v,1742175787,verilog,,/home/drh650/git-clones/3700/final_project/src/testbench.v,,tcounter,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/testbench.v,1742258975,verilog,,/home/drh650/git-clones/3700/final_project/src/top_testbench.v,,testbench,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/top.v,1742249184,verilog,,/home/drh650/git-clones/3700/final_project/src/transmit.v,,top,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/top_testbench.v,1742250470,verilog,,/home/drh650/git-clones/3700/final_project/src/top.v,,top_testbench,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/transmit.v,1742175787,verilog,,/home/drh650/git-clones/3700/final_project/src/uart_tx.v,,transmit,,,,,,,,
+/home/drh650/git-clones/3700/final_project/src/uart_tx.v,1742176698,verilog,,,,uart_tx,,,,,,,,
